@@ -1,0 +1,13 @@
+.fondotransparente{
+    background-color: transparent;
+}
+.imagen{
+    background-image: url("img/consolas.jpg");
+    height: 20px;
+    background-position: top center;
+    padding: 2% 20% 20% 2%;
+}
+.texto{
+    text-align: center;
+    color: aliceblue;
+}
